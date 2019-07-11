@@ -1,0 +1,124 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey" >
+
+    <RelativeLayout
+        android:id="@+id/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/header_size_height"
+        android:background="@color/color_bg_primary" >
+
+        <Button
+            android:id="@+id/btn_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5sp"
+            android:background="@drawable/bt_menu"
+            android:minHeight="1sp"
+            android:minWidth="1sp"
+            android:onClick="onClick" />
+
+        <Button
+            android:id="@+id/btn_wishlist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5sp"
+            android:layout_toRightOf="@+id/btn_menu"
+            android:background="@drawable/bt_heart_action"
+            android:minHeight="1sp"
+            android:minWidth="1sp"
+            android:onClick="onClick" />
+
+        <Button
+            android:id="@+id/btn_filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5sp"
+            android:background="@drawable/bt_filter"
+            android:minHeight="1sp"
+            android:minWidth="1sp"
+            android:onClick="onClick" />
+
+        <Button
+            android:id="@+id/btn_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10sp"
+            android:layout_toLeftOf="@+id/btn_filter"
+            android:background="@drawable/bt_search"
+            android:minHeight="1sp"
+            android:minWidth="1sp"
+            android:onClick="onClick" />
+
+        <!-- <TextView -->
+        <!-- android:id="@+id/tv_header_logo" -->
+        <!-- android:layout_width="match_parent" -->
+        <!-- android:layout_height="wrap_content" -->
+        <!-- android:layout_centerVertical="true" -->
+        <!-- android:layout_toLeftOf="@+id/btn_search" -->
+        <!-- android:layout_toRightOf="@+id/btn_wishlist" -->
+        <!-- android:gravity="center" -->
+        <!-- android:singleLine="true" -->
+        <!-- android:text="@string/app_name" -->
+        <!-- android:textColor="@color/white" -->
+        <!-- android:textSize="@dimen/text_size_header" /> -->
+
+        <ImageView
+            android:id="@+id/img_logo"
+            android:layout_width="@dimen/item_img_header_height"
+            android:layout_height="@dimen/item_img_header_height"
+            android:layout_centerInParent="true"
+            android:src="@drawable/logo_header" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout_ad"
+        android:layout_below="@+id/layout_header" >
+
+        <fragment
+            android:id="@+id/fragment_home"
+            android:name="com.ypyproductions.restaurants.fragment.FragmentHome"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_ad"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_height_ads"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal" >
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/img_backgroud"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/alpha_white"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/layout_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/item_main_menu"
+        android:visibility="gone" />
+
+    <include
+        android:id="@+id/layout_filter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/item_main_filter"
+        android:visibility="gone" />
+
+</RelativeLayout>

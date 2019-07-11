@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="header_size_height">60sp</dimen>
+    <dimen name="margin">10sp</dimen>
+    <dimen name="small_margin">5sp</dimen>
+    <dimen name="text_size_header">22sp</dimen>
+    <dimen name="text_size_header_menu">25sp</dimen>
+    <dimen name="text_size_title">16sp</dimen>
+    <dimen name="text_size_content">14sp</dimen>
+    <dimen name="text_size_category">15sp</dimen>
+    <dimen name="text_size_feature">20sp</dimen>
+    
+    <dimen name="item_row_height">80sp</dimen>
+    <dimen name="item_img_height">40sp</dimen>
+    <dimen name="item_img_header_height">50sp</dimen>
+    <dimen name="item_category_height">60sp</dimen>
+    
+    <dimen name="layout_height_ads">50sp</dimen>
+    <dimen name="layout_height_title_menu">50sp</dimen>
+    <dimen name="layout_height_button">50sp</dimen>
+    <dimen name="tv_price_height">70sp</dimen>
+    <dimen name="page_margin">10sp</dimen>
+    <dimen name="feature_title_margin">30sp</dimen>
+    <dimen name="menu_margin_top">30sp</dimen>
+    <dimen name="menu_margin_right">16sp</dimen>
+
+</resources>

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1",
+    "name": "Mie Ongklok",
+    "price": "10000",
+    "image": "images/makanan/mieongklok.jpg",
+    "description": "Makanan tradision yang terbuat dari mie dengan campuran pati dan bumbu khas wonosobo",
+    "tag": "Kuah",
+    "category": "1",
+    "featured": "1"
+  },
+  {
+    "id": "2",
+    "name": "Megana",
+    "price": "4000",
+    "image": "images/makanan/megana.jpg",
+    "description": "Nasi yang dicampur dengan sayur kubis dan udang bubuk serta dengan bumbu khas",
+    "tag": "Kenyang",
+    "category": "1",
+    "featured": ""
+  },
+  {
+    "id": "3",
+    "name": "Nasi Gandul",
+    "price": "6000",
+    "image": "images/makanan/nasigandul.jpg",
+    "description": "Rasa gurih yang begitu kental hadir dalam setiap bulir nasi yang Anda makan, dilengkapi dengan daging sapi, telur dan disiram dengan kuah pedas yang akan menambah selera.",
+    "tag": "Kenyang",
+    "category": "1",
+    "featured": ""
+  },
+  {
+    "id": "4",
+    "name": "Nasi Liwet",
+    "price": "5000",
+    "image": "images/makanan/nasiliwet.jpg",
+    "description": "Cara masak nasi yang unik dengan tambahan santan dan daun pandan untuk membuatnya lebih gurih",
+    "tag": "Kenyang",
+    "category": "1",
+    "featured": ""
+  },
+  {
+    "id": "5",
+    "name": "Mangut Beong",
+    "price": "12000",
+    "image": "images/makanan/mangutbeong.jpg",
+    "description": "Makanan ini sangat terkenal karena keunikan dan rasanya yang begitu lezat",
+    "tag": "Renyah",
+    "category": "1",
+    "featured": ""
+  },
+  {
+    "id": "6",
+    "name": "Brekecek",
+    "price": "8000",
+    "image": "images/makanan/brekecek.jpg",
+    "description": "Mirip dengan pecel dengan beberapa sayuran dan guyuran sambal kacang yang pedas. Namun, beberapa sayuran yang digunakan dalam kondisi mentah.",
+    "tag": "Maknyus",
+    "category": "1",
+    "featured": "1"
+  },
+  {
+    "id": "7",
+    "name": "Dawet Ireng",
+    "price": "5000",
+    "image": "images/minuman/dawetireng.jpg",
+    "description": "Warna hitam dari dawet ini berasal dari bahan alami yang digunakan, yakni abu jerami. Bahan tersebut ditambahkan pada saat proses pembuatan cendol.",
+    "tag": "Segar",
+    "category": "2",
+    "featured": ""
+  },
+  {
+    "id": "8",
+    "name": "Es Oyen",
+    "price": "5000",
+    "image": "images/minuman/esoyen.jpg",
+    "description": "Es oyen cocok sekali diminum di siang hari, atau djadikan takjil saat puasa.",
+    "tag": "Seger",
+    "category": "2",
+    "featured": "1"
+  },
+  {
+    "id": "9",
+    "name": "Skoteng",
+    "price": "4500",
+    "image": "images/minuman/sekoteng.jpg",
+    "description": "Skoteng adalah makanan atau minuman asli Jawa Tengah, hidangan ini begitu seger, dengan perpaduan jahe yang membuat tubuh kita terasa hangat.",
+    "tag": "Anget",
+    "category": "2",
+    "featured": ""
+  },
+  {
+    "id": "10",
+    "name": "Es Dawet Cenndol",
+    "price": "5000",
+    "image": "images/minuman/esdawetcendol.jpg",
+    "description": "Campuran gula merah dan es yang membasahi cendol serta dawet, membuat minuman satu ini terasa menyegarkan dengan rasa manis khas yang berasal dari gula merah.",
+    "tag": "Seger",
+    "category": "2",
+    "featured": ""
+  },
+  {
+    "id": "11",
+    "name": "Bir Pletok",
+    "price": "2",
+    "image": "images/minuman/birpletok.jpg",
+    "description": "Meski namanya bir, namun minuman ini tidak mengandung alkohol, jadi bisa dikatakan halal.Jika dilihat sdari segi tampilan, bir pletok memiliki warna cokelat pekat, bahkan jika dilihat sekilas mirip dengan kopi",
+    "tag": "Mantap",
+    "category": "2",
+    "featured": ""
+  },
+  {
+    "id": "12",
+    "name": "Carica",
+    "price": "5000",
+    "image": "images/minuman/carica.jpg",
+    "description": "Buah khas dataran tinggi dieng yang bisa dibuat berbagai macam minuman dengan rasa yang segar bisa disajikan dalam kedaan hangat atau dingin",
+    "tag": "Maknyus",
+    "category": "2",
+    "featured": ""
+  },
+  {
+    "id": "13",
+    "name": "Tempe Kemul",
+    "price": "1000",
+    "image": "images/cemilan/tempekemul.jpg",
+    "description": "Khusus wonosobo punya mendoan sendiri namanya Tempe kemul dibuat dari tempe yang diberi tepung dan digoreng sampai agak kering",
+    "tag": "Kriuk",
+    "category": "3",
+    "featured": "1"
+  },
+  {
+    "id": "14",
+    "name": "Getuk",
+    "price": "1000",
+    "image": "images/cemilan/getuk.jpg",
+    "description": "Pada mulanya, getuk muncul dengan warna putih saja. Namun, kini, camilan dengan bahan dasar singkong ini muncul dengan beragam variasi yang berbeda.",
+    "tag": "Enak",
+    "category": "3",
+    "featured": ""
+  },
+  {
+    "id": "15",
+    "name": "Rondo Royal",
+    "price": "2000",
+    "image": "images/cemilan/rondoroyal.jpg",
+    "description": "Camilan ini dibuat dengan bahan dasar tape singkong yang kemudian dibalut dengan adonan tepung dan digoreng.",
+    "tag": "Mantap",
+    "category": "3",
+    "featured": "1"
+  },
+  {
+    "id": "16",
+    "name": "Mendoan",
+    "price": "1000",
+    "image": "images/cemilan/mendoan.jpg",
+    "description": "Cemilan wajib untuk anda yan ke Jawa tengah",
+    "tag": "Kriuk",
+    "category": "3",
+    "featured": ""
+  },
+  {
+    "id": "17",
+    "name": "Telur Asin",
+    "price": "2500",
+    "image": "images/cemilan/telurasin.jpg",
+    "description": "Makanan ini umumnya dibuat dengan bahan dasar telur bebek yang sudah mengalami proses direndam larutan garam hingga rasanya berubah menjadi asin.",
+    "tag": "Mantap",
+    "category": "3",
+    "featured": ""
+  },
+  {
+    "id": "18",
+    "name": "Tahu Petis",
+    "price": "1500",
+    "image": "images/cemilan/tahupetis.jpg",
+    "description": "Cemilan khas ini adalah paduan dari tahu dan petis. Biasanya, makanan ini dijadikan camilan nikmat untuk rapat atau sekadar menikmati waktu luang.",
+    "tag": "Gurih",
+    "category": "3",
+    "featured": ""
+  }
+]

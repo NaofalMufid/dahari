@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/layout_header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/item_category_height"
+        android:background="@color/white" >
+
+        <TextView
+            android:id="@+id/tv_cat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin"
+            android:layout_marginRight="@dimen/margin"
+            android:layout_toLeftOf="@+id/img_indicator"
+            android:singleLine="true"
+            android:text="RESTAURANT NAME"
+            android:textColor="@color/color_bg_primary"
+            android:textSize="@dimen/text_size_category"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/img_indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin"
+            android:src="@drawable/icon_expand" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_items"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layout_header"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</RelativeLayout>

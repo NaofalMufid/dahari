@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "Mie Ongklok",
+        "image": "images/makanan/mieongklok.jpg",
+        "description": "Diskon 30%"
+    },
+    {
+        "id": "2",
+        "title": "Dawet ireng",
+        "image": "images/minuman/dawetireng.jpg",
+        "description": "Diskon 70%. Cek sekarang !"
+    },
+    {
+        "id": "3",
+        "title": "Rondo royal",
+        "image": "images/cemilan/rondoroyal.jpg",
+        "description": "Diskon 40%. Cek sekarang !"
+    },
+    {
+        "id": "4",
+        "title": "Bir pletok",
+        "image": "images/minuman/birpletok.jpg",
+        "description": "Diskon 50%. Cek sekarang !"
+    }
+]

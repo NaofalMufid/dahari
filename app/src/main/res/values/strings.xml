@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dahari</string>
+    <string name="copyright">©2018 Dahar.id</string>
+     
+    <string name="title_warning_close">Keluar</string>
+    <string name="info_lose_internet">Tidak Ada koneksi internet.Sialhkan cek kembali!</string>
+    
+    <string name="title_yes">Ya</string>
+    <string name="title_no">Tidak</string>
+    <string name="title_ok">OK</string>
+    <string name="title_cancel">Batal</string>
+    <string name="title_info">Informasi</string>
+    <string name="title_add_more_items">Tambah item lain</string>
+    <string name="title_call_now">Panggil Sekarang</string>
+    
+    <string name="title_confirm">Konfirmasi</string>
+    <string name="title_warning">Peringatan</string>
+    
+   	<string name="title_about_us">Tentang kami</string>
+    <string name="title_rate_us">Penilaian</string>
+    <string name="title_facebook">Facebook</string>
+    <string name="title_website">Website</string>
+    <string name="title_twitter">Twitter</string>
+    
+    <string name="info_empty">Silahkan masukan kata kunci!</string>
+    <string name="info_close_app">Apakah Anda akan keluar dari aplikasi?</string>
+    <string name="info_server_error">Tidak dapat terhubung ke server. Silahkan cek kembali!</string>
+    <string name="info_parse_error">Data tidak dapat diproses. Silahkan cek kembali!</string>
+    
+    <string name="loading">Sialhakan tunggu</string>
+    <string name="title_no_info">Tidak ada informasi</string>
+    <string name="title_call_us_now">TELPON KAMI</string>
+    <string name="title_search">Pencarian kata</string>
+    <string name="title_result_found">Tidak ada hasil ditemukan</string>
+    <string name="info_no_offer">Tidak ada penawaran</string>
+    <string name="hint_search">Masukan kata</string>
+    <string name="title_hotel_promotions">Promosi Hotel</string>
+    <string name="info_no_hotel_promotions">Tidak ada Promosi Hotel</string>
+    <string name="info_my_order">Pesananku</string>
+    <string name="format_sub_total">Subtotal: %1$s</string>
+    <string name="format_levy">Tax: %1$s</string>
+    <string name="format_total">Total: %1$s</string>
+
+    <string name="title_all_restaurant">Semua warung</string>
+    <string name="title_offer">Penawaran</string>
+    <string name="title_unknow">Warungan</string>
+    
+    <string name="format_info_add_wishlist">Tambah %1$s ke disuka</string>
+    <string name="format_info_remove_wishlist">Hapus %1$s dar disuka</string>
+    
+    <string name="info_no_restaurant">Tidak ada warung</string>
+    <string name="title_send">Kirim</string>
+    <string name="title_main_menu">Menu utama</string>
+    <string name="title_categories">Categori</string>
+    <string name="title_select_cat">Pilih Kategori</string>
+    <string name="title_back">Kembali</string>
+    <string name="title_done">Selesai</string>
+    <string name="title_filter">Filter</string>
+    <string name="info_filter">Pilih filter</string>
+    <string name="info_no_cat">Tidak berkategori</string>
+    <string name="info_tags">Tag</string>
+    <string name="info_item_contains">Item ini berisi</string>
+    
+    <string name="title_contact">Kontak</string>
+    
+     <string-array name="list_share">
+        <item>Kirim email</item>
+        <item>Website</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Beri penilaian</item>
+    </string-array>
+    
+	<string name="title_unknown">Tidak diketahui</string>
+    <string name="title_share">Bagikan</string>
+    <string name="info_version_format">Versi %1$s</string>
+    
+    <string-array name="list_share_options">
+        <item>Twitter</item>
+        <item>Facebook</item>
+        <item>Email</item>
+        <item>SMS</item>
+    </string-array>
+
+</resources>

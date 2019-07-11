@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/tv_subtotal"
+        android:layout_marginBottom="@dimen/margin"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_my_order"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="@dimen/margin"
+            android:paddingTop="@dimen/margin"
+            android:singleLine="true"
+            android:text="@string/info_my_order"
+            android:textColor="@color/color_bg_primary"
+            android:textSize="@dimen/text_size_header"
+            android:textStyle="bold" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/black_deviders" />
+
+        <ListView
+            android:id="@+id/list_wish_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@color/black_deviders"
+            android:dividerHeight="1sp"
+            android:scrollbars="none" >
+        </ListView>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_subtotal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tv_levy"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/small_margin"
+        android:layout_marginRight="100sp"
+        android:singleLine="true"
+        android:text="@string/format_sub_total"
+        android:textColor="@color/black_text"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_levy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tv_total"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/small_margin"
+        android:layout_marginRight="100sp"
+        android:singleLine="true"
+        android:text="@string/format_levy"
+        android:textColor="@color/black_text"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_add_more"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="@dimen/margin"
+        android:layout_marginRight="100sp"
+        android:singleLine="true"
+        android:text="@string/format_total"
+        android:textColor="@color/black_text"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btn_add_more"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_height_button"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/margin"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
+        android:background="@drawable/bt_round_red"
+        android:singleLine="true"
+        android:text="@string/title_add_more_items"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_title" />
+
+    <TextView
+        android:id="@+id/tv_no_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:singleLine="true"
+        android:text="@string/info_no_restaurant"
+        android:textColor="@color/black_secondary_text"
+        android:textSize="@dimen/text_size_title"
+        android:visibility="gone" />
+
+</RelativeLayout>

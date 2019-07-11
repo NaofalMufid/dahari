@@ -1,0 +1,1075 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:2:1-67:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/a11f571f125599e3e78d79db92d65c71/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/9c4b0cf8ec394974143da2fec545ca11/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/27cfc852900564b53afecaa010e8dbde/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/361972881fb77d71ba659592c82768c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/00ebd9db13ecbb3eb052faae3c35e0b8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/bb79e3060719fca0372a53ddc66f6423/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/c2e268cfa84eb2d776f1cf106b664951/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/5460641658058179d9c981d6a8832527/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/c17a8b7f915f59a4e027c9cd7446e7c3/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/d503fb615719ad28883995d105cbd70e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/87edd513108ea20ed76d0b52cdc8cb32/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/4c8a3c7c032d30da607ce806e316ffb1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b175f33434f831cd2d320096877abc32/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/b88166be9416391ce117b947d7177993/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/98826466fb4232634099645f447cb6c1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/0cf9eae7b86fb6dd636f48ba0b6aaf14/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/5b6383210da4af9e255cd9a39f295c5f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/046201c775b0a9fc99a5f372a8e8600c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/77463a49a049225cdfbd438e0236560d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/ce5a6d77c64da3868d4b12bf5b260325/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/0c97f7e3c01785b17656af12908d94d1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/d23bba7eb8ce8ddd14f04b2924469ea5/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/308264ebb63a3c03a6c12a8f2dd487c0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/0103a7f4443a2fd23034a9c8281066bc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/93933372a082bff8771dc68a4ff114aa/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/9768329329c33f04a05febcdb7fdfff6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/d929433fb67fbb9f92a83e6921e2ee98/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/3f970147975fa12aa6a744f751b29a30/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/f149945745cb0bea11f7244c409ab248/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/aee4b32afb24d348a7315f7aa85996df/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/c300d07474c49ab8a7328be4d0cad0b1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/69175abc04faad23cb646b48fc7819bb/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/402f934e99994149df9c7d9ee3a02201/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/254cc2783bcf0b7e46f1abae18187bd8/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/47ed271e2df54513709f9bdbc623579b/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/540111b5ea809976dd4435b82b01e84b/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/14b6e40220086fa6ccb4d22f3c84f302/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9731008026d91030e59806e7b2629f3c/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/6011310685c09af1ec98f1578d469e60/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/718b0dbfa70c2051648bbe1f015bca2d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/7331b88a8f4d10dfd5e0f776677dd80b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9c2af42facfee32b0c41c0c015d1c19/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/09e1ec239eff58266dc51fd96232dc92/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/6b33749f95fdc42eec92f58532a1a6da/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9822553f5400b31246ee7057db7daae6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e9c0b6d3788e6454d2d15fa613d94b72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/65f3654ba3028bcc923e09513f0232a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/79f6db7a303dcf4675a96ff0e1b6b34d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/af81686e3f2ae1992a97df2fd303d7ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/14912d92b0545f07733679f01c13c760/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/38516eabf2a43d1658178f5990756be7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3b633e80217b372068ddf5a56ff11bde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9fc892142ba7736a359533827f978c76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9ed0f727447d0249bc5817a3456ed4d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fbaa008ff421a24984e7d0409cfe8e25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b98b0bf3fb7fcb5e7a677f936b1f0e7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/44e85fa606336602783e007548d0f300/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f5e9d292cc8f9954effffbcf7083d3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/75deb6b3709ce6c46f5c0614573832b4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c3b0577de419e4f384db2740f3705fce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cc3f74cfdc21d95339c39de3e337a780/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/35a6289e51f7a35a44c7b264d05159af/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d9cd870321951e1f8dc3b94870c2c83c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/62c99cd74e1860fa50204c53919776ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fd34a2136886740bdbeef56d79d45522/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5bf1be972007011b821eee4fed996811/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/74fa1cefd1b7321597d4030967b3e05b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bcbc74cde860abaea270284242276803/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c14efe185697af662d2c3edec30772a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/635238b0e89ec8df63c54dd1c1ec561d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/94699ce39efc5f5c43678568a42dfa80/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/84053e1c13edbc3812cee8d5e0bd56ba/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/0cfac8a2bcfbed939c55b62cb88ecd9c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/2722c8d3a851c4f89197e76ea9f97518/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/462185da7819abec5e269b59ae4337fb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/97db2dc609a1abddf396be0807b14c51/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/804614720bd3acad7eae24692982ffe0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/8d2dacdd11594bd9703f721d5f10448e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/0034c25c192059a020c60f51dd1fe78d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/2d6305f6508924395ac0ef5b77f96f31/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/2a10c5ddb5f86e4c8da806db96b12276/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/eb6f716a1e70d0f280f58e5faf549d13/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/50ce48303cb1a5e8be9de4a1e9c0e05d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/f450d74f6f6795574a15280162efdf45/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/ec3441fc7b9000c843166e61fb21ae71/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/45da3f19045554a64825d1951267b281/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/618b4affc52b40af690d2ab7e6dd3669/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/c7cc4ce77fb64b0c90bdddf394e767c5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/b1c1389469fc03b601d9a3f82967a4c3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/fcf1bc14826b3056adf8920684e24aa2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/f31ba801145d6cc2829dc8eff581b527/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/7c05be217089217a0fcdb2b44caa28e9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/4b10b639b0c1e3cfb161ce7b99d594e5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/a4afaf7938bbd6565a010aa8301f2fa0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/f7505bcf66ab25379798918c5efbd92c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/be939aa3cfa45fe9a1e76ca95f7a5e39/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/e7bd5b7b263591cfb694292694776dc8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/8c4ff54c36c8c628643d5e38f5aa85b1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/34f2fe7b647b9af833bb8e09f25d45ca/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/8d16ae30623604f6fab754ed5aca0ca4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/bdd3a27896e840080e7d8b29c7818f74/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/73d9da8ffb11f4b625cc979f7ec05600/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/ebb784b4d105f9e27384f9340a6dd464/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/5332b8d5ddb9597f5dce7031fc8c098d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/c0ba23f84bc4fdbaa2d6c923154a7c3e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/880c6214f232f3e358e203b12d20dd65/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/31f0e971a904e6e6b324bfe92e520988/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/e068e5d47ef08ad26eef708f3e204933/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/0a57b682290fd5a84e506241871d149f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/faf69016cb6a5c66e2fecf9e5a6f5b0d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/605b1a65edfcbfa29838998af65d5e9f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/8984ca1523e61c5fbc52a031c6682790/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/a3146e25e4c4173aaa16ad07cb6025c0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/e492e75581dc1681dd3287387cf97f03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/6246c87827bf4b517e2d407d122764d0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/62ad313bcc6090ad16241a54d107653a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/2a29f9d573e65d97a89a4b642cd74d37/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/bf93665bbe5bad54959ea81a52f6d1e1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/99a39e3f3f18fd269526ec33caed3967/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/a11f571f125599e3e78d79db92d65c71/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/a11f571f125599e3e78d79db92d65c71/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/9c4b0cf8ec394974143da2fec545ca11/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/9c4b0cf8ec394974143da2fec545ca11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/27cfc852900564b53afecaa010e8dbde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/27cfc852900564b53afecaa010e8dbde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/361972881fb77d71ba659592c82768c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/361972881fb77d71ba659592c82768c6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/00ebd9db13ecbb3eb052faae3c35e0b8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/00ebd9db13ecbb3eb052faae3c35e0b8/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/bb79e3060719fca0372a53ddc66f6423/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-12.0.1.aar/bb79e3060719fca0372a53ddc66f6423/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/c2e268cfa84eb2d776f1cf106b664951/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/c2e268cfa84eb2d776f1cf106b664951/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/5460641658058179d9c981d6a8832527/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.1.aar/5460641658058179d9c981d6a8832527/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/c17a8b7f915f59a4e027c9cd7446e7c3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.1.aar/c17a8b7f915f59a4e027c9cd7446e7c3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/d503fb615719ad28883995d105cbd70e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/d503fb615719ad28883995d105cbd70e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/87edd513108ea20ed76d0b52cdc8cb32/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/87edd513108ea20ed76d0b52cdc8cb32/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/4c8a3c7c032d30da607ce806e316ffb1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/4c8a3c7c032d30da607ce806e316ffb1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b175f33434f831cd2d320096877abc32/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b175f33434f831cd2d320096877abc32/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/b88166be9416391ce117b947d7177993/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/b88166be9416391ce117b947d7177993/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/98826466fb4232634099645f447cb6c1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/98826466fb4232634099645f447cb6c1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/0cf9eae7b86fb6dd636f48ba0b6aaf14/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/0cf9eae7b86fb6dd636f48ba0b6aaf14/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/5b6383210da4af9e255cd9a39f295c5f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/5b6383210da4af9e255cd9a39f295c5f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/046201c775b0a9fc99a5f372a8e8600c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/046201c775b0a9fc99a5f372a8e8600c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/77463a49a049225cdfbd438e0236560d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wallet-12.0.1.aar/77463a49a049225cdfbd438e0236560d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/ce5a6d77c64da3868d4b12bf5b260325/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/ce5a6d77c64da3868d4b12bf5b260325/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/0c97f7e3c01785b17656af12908d94d1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/0c97f7e3c01785b17656af12908d94d1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/d23bba7eb8ce8ddd14f04b2924469ea5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-12.0.1.aar/d23bba7eb8ce8ddd14f04b2924469ea5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/308264ebb63a3c03a6c12a8f2dd487c0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/308264ebb63a3c03a6c12a8f2dd487c0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/0103a7f4443a2fd23034a9c8281066bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/0103a7f4443a2fd23034a9c8281066bc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/93933372a082bff8771dc68a4ff114aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/93933372a082bff8771dc68a4ff114aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/9768329329c33f04a05febcdb7fdfff6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/9768329329c33f04a05febcdb7fdfff6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/d929433fb67fbb9f92a83e6921e2ee98/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/d929433fb67fbb9f92a83e6921e2ee98/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/3f970147975fa12aa6a744f751b29a30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/3f970147975fa12aa6a744f751b29a30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/f149945745cb0bea11f7244c409ab248/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/f149945745cb0bea11f7244c409ab248/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/aee4b32afb24d348a7315f7aa85996df/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/aee4b32afb24d348a7315f7aa85996df/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/c300d07474c49ab8a7328be4d0cad0b1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/c300d07474c49ab8a7328be4d0cad0b1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/69175abc04faad23cb646b48fc7819bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/69175abc04faad23cb646b48fc7819bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/402f934e99994149df9c7d9ee3a02201/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/402f934e99994149df9c7d9ee3a02201/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/254cc2783bcf0b7e46f1abae18187bd8/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.1.aar/254cc2783bcf0b7e46f1abae18187bd8/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/47ed271e2df54513709f9bdbc623579b/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.1.aar/47ed271e2df54513709f9bdbc623579b/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/540111b5ea809976dd4435b82b01e84b/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-12.0.1.aar/540111b5ea809976dd4435b82b01e84b/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/14b6e40220086fa6ccb4d22f3c84f302/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-12.0.1.aar/14b6e40220086fa6ccb4d22f3c84f302/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9731008026d91030e59806e7b2629f3c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9731008026d91030e59806e7b2629f3c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/6011310685c09af1ec98f1578d469e60/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/6011310685c09af1ec98f1578d469e60/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/718b0dbfa70c2051648bbe1f015bca2d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/718b0dbfa70c2051648bbe1f015bca2d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/7331b88a8f4d10dfd5e0f776677dd80b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/7331b88a8f4d10dfd5e0f776677dd80b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9c2af42facfee32b0c41c0c015d1c19/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9c2af42facfee32b0c41c0c015d1c19/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/09e1ec239eff58266dc51fd96232dc92/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/09e1ec239eff58266dc51fd96232dc92/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:palette-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/6b33749f95fdc42eec92f58532a1a6da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/6b33749f95fdc42eec92f58532a1a6da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9822553f5400b31246ee7057db7daae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/9822553f5400b31246ee7057db7daae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e9c0b6d3788e6454d2d15fa613d94b72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e9c0b6d3788e6454d2d15fa613d94b72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/65f3654ba3028bcc923e09513f0232a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/65f3654ba3028bcc923e09513f0232a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/79f6db7a303dcf4675a96ff0e1b6b34d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/79f6db7a303dcf4675a96ff0e1b6b34d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/af81686e3f2ae1992a97df2fd303d7ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/af81686e3f2ae1992a97df2fd303d7ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/14912d92b0545f07733679f01c13c760/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/14912d92b0545f07733679f01c13c760/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/38516eabf2a43d1658178f5990756be7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/38516eabf2a43d1658178f5990756be7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3b633e80217b372068ddf5a56ff11bde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/3b633e80217b372068ddf5a56ff11bde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9fc892142ba7736a359533827f978c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/9fc892142ba7736a359533827f978c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9ed0f727447d0249bc5817a3456ed4d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/9ed0f727447d0249bc5817a3456ed4d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fbaa008ff421a24984e7d0409cfe8e25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/fbaa008ff421a24984e7d0409cfe8e25/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b98b0bf3fb7fcb5e7a677f936b1f0e7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b98b0bf3fb7fcb5e7a677f936b1f0e7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/44e85fa606336602783e007548d0f300/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/44e85fa606336602783e007548d0f300/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f5e9d292cc8f9954effffbcf7083d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f5e9d292cc8f9954effffbcf7083d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/75deb6b3709ce6c46f5c0614573832b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/75deb6b3709ce6c46f5c0614573832b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c3b0577de419e4f384db2740f3705fce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/c3b0577de419e4f384db2740f3705fce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cc3f74cfdc21d95339c39de3e337a780/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cc3f74cfdc21d95339c39de3e337a780/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/35a6289e51f7a35a44c7b264d05159af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/35a6289e51f7a35a44c7b264d05159af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d9cd870321951e1f8dc3b94870c2c83c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d9cd870321951e1f8dc3b94870c2c83c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/62c99cd74e1860fa50204c53919776ae/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/62c99cd74e1860fa50204c53919776ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fd34a2136886740bdbeef56d79d45522/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fd34a2136886740bdbeef56d79d45522/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5bf1be972007011b821eee4fed996811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5bf1be972007011b821eee4fed996811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/74fa1cefd1b7321597d4030967b3e05b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/74fa1cefd1b7321597d4030967b3e05b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bcbc74cde860abaea270284242276803/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bcbc74cde860abaea270284242276803/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c14efe185697af662d2c3edec30772a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/9c14efe185697af662d2c3edec30772a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/635238b0e89ec8df63c54dd1c1ec561d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/635238b0e89ec8df63c54dd1c1ec561d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/94699ce39efc5f5c43678568a42dfa80/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/94699ce39efc5f5c43678568a42dfa80/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/84053e1c13edbc3812cee8d5e0bd56ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/84053e1c13edbc3812cee8d5e0bd56ba/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/0cfac8a2bcfbed939c55b62cb88ecd9c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/0cfac8a2bcfbed939c55b62cb88ecd9c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/2722c8d3a851c4f89197e76ea9f97518/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/2722c8d3a851c4f89197e76ea9f97518/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/462185da7819abec5e269b59ae4337fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/462185da7819abec5e269b59ae4337fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/97db2dc609a1abddf396be0807b14c51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/97db2dc609a1abddf396be0807b14c51/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/804614720bd3acad7eae24692982ffe0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/804614720bd3acad7eae24692982ffe0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/8d2dacdd11594bd9703f721d5f10448e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/8d2dacdd11594bd9703f721d5f10448e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/0034c25c192059a020c60f51dd1fe78d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/0034c25c192059a020c60f51dd1fe78d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/2d6305f6508924395ac0ef5b77f96f31/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/2d6305f6508924395ac0ef5b77f96f31/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/2a10c5ddb5f86e4c8da806db96b12276/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/2a10c5ddb5f86e4c8da806db96b12276/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/eb6f716a1e70d0f280f58e5faf549d13/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/eb6f716a1e70d0f280f58e5faf549d13/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/50ce48303cb1a5e8be9de4a1e9c0e05d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/50ce48303cb1a5e8be9de4a1e9c0e05d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/f450d74f6f6795574a15280162efdf45/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/f450d74f6f6795574a15280162efdf45/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/ec3441fc7b9000c843166e61fb21ae71/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/ec3441fc7b9000c843166e61fb21ae71/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/45da3f19045554a64825d1951267b281/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/45da3f19045554a64825d1951267b281/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/618b4affc52b40af690d2ab7e6dd3669/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/618b4affc52b40af690d2ab7e6dd3669/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/c7cc4ce77fb64b0c90bdddf394e767c5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/c7cc4ce77fb64b0c90bdddf394e767c5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/b1c1389469fc03b601d9a3f82967a4c3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/b1c1389469fc03b601d9a3f82967a4c3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/fcf1bc14826b3056adf8920684e24aa2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/fcf1bc14826b3056adf8920684e24aa2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/f31ba801145d6cc2829dc8eff581b527/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/f31ba801145d6cc2829dc8eff581b527/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/7c05be217089217a0fcdb2b44caa28e9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/7c05be217089217a0fcdb2b44caa28e9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/4b10b639b0c1e3cfb161ce7b99d594e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/4b10b639b0c1e3cfb161ce7b99d594e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/a4afaf7938bbd6565a010aa8301f2fa0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/a4afaf7938bbd6565a010aa8301f2fa0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/f7505bcf66ab25379798918c5efbd92c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/f7505bcf66ab25379798918c5efbd92c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/be939aa3cfa45fe9a1e76ca95f7a5e39/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/be939aa3cfa45fe9a1e76ca95f7a5e39/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/e7bd5b7b263591cfb694292694776dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/e7bd5b7b263591cfb694292694776dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/8c4ff54c36c8c628643d5e38f5aa85b1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/8c4ff54c36c8c628643d5e38f5aa85b1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/34f2fe7b647b9af833bb8e09f25d45ca/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/34f2fe7b647b9af833bb8e09f25d45ca/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/8d16ae30623604f6fab754ed5aca0ca4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/8d16ae30623604f6fab754ed5aca0ca4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/bdd3a27896e840080e7d8b29c7818f74/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/bdd3a27896e840080e7d8b29c7818f74/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/73d9da8ffb11f4b625cc979f7ec05600/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/73d9da8ffb11f4b625cc979f7ec05600/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/ebb784b4d105f9e27384f9340a6dd464/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/ebb784b4d105f9e27384f9340a6dd464/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/5332b8d5ddb9597f5dce7031fc8c098d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/5332b8d5ddb9597f5dce7031fc8c098d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/c0ba23f84bc4fdbaa2d6c923154a7c3e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/c0ba23f84bc4fdbaa2d6c923154a7c3e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/880c6214f232f3e358e203b12d20dd65/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/880c6214f232f3e358e203b12d20dd65/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/31f0e971a904e6e6b324bfe92e520988/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/31f0e971a904e6e6b324bfe92e520988/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/e068e5d47ef08ad26eef708f3e204933/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/e068e5d47ef08ad26eef708f3e204933/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/0a57b682290fd5a84e506241871d149f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/0a57b682290fd5a84e506241871d149f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/faf69016cb6a5c66e2fecf9e5a6f5b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/faf69016cb6a5c66e2fecf9e5a6f5b0d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/605b1a65edfcbfa29838998af65d5e9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/605b1a65edfcbfa29838998af65d5e9f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/8984ca1523e61c5fbc52a031c6682790/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/8984ca1523e61c5fbc52a031c6682790/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/a3146e25e4c4173aaa16ad07cb6025c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/a3146e25e4c4173aaa16ad07cb6025c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/e492e75581dc1681dd3287387cf97f03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/e492e75581dc1681dd3287387cf97f03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/6246c87827bf4b517e2d407d122764d0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/6246c87827bf4b517e2d407d122764d0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/62ad313bcc6090ad16241a54d107653a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/62ad313bcc6090ad16241a54d107653a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/2a29f9d573e65d97a89a4b642cd74d37/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/2a29f9d573e65d97a89a4b642cd74d37/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/bf93665bbe5bad54959ea81a52f6d1e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/bf93665bbe5bad54959ea81a52f6d1e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/99a39e3f3f18fd269526ec33caed3967/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/99a39e3f3f18fd269526ec33caed3967/AndroidManifest.xml:20:5-44
+INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-12.0.1.aar/00ebd9db13ecbb3eb052faae3c35e0b8/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/5b6383210da4af9e255cd9a39f295c5f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/5b6383210da4af9e255cd9a39f295c5f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/0c97f7e3c01785b17656af12908d94d1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/0c97f7e3c01785b17656af12908d94d1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/402f934e99994149df9c7d9ee3a02201/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/402f934e99994149df9c7d9ee3a02201/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/93933372a082bff8771dc68a4ff114aa/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/93933372a082bff8771dc68a4ff114aa/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:14:22-66
+application
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:16:5-65:19
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/a11f571f125599e3e78d79db92d65c71/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-12.0.1.aar/a11f571f125599e3e78d79db92d65c71/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/9c4b0cf8ec394974143da2fec545ca11/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-12.0.1.aar/9c4b0cf8ec394974143da2fec545ca11/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/27cfc852900564b53afecaa010e8dbde/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/27cfc852900564b53afecaa010e8dbde/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/c2e268cfa84eb2d776f1cf106b664951/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-12.0.1.aar/c2e268cfa84eb2d776f1cf106b664951/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/d503fb615719ad28883995d105cbd70e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-config-12.0.1.aar/d503fb615719ad28883995d105cbd70e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/87edd513108ea20ed76d0b52cdc8cb32/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-awareness-12.0.1.aar/87edd513108ea20ed76d0b52cdc8cb32/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/4c8a3c7c032d30da607ce806e316ffb1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-games-12.0.1.aar/4c8a3c7c032d30da607ce806e316ffb1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b175f33434f831cd2d320096877abc32/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-drive-12.0.1.aar/b175f33434f831cd2d320096877abc32/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/b88166be9416391ce117b947d7177993/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fido-12.0.1.aar/b88166be9416391ce117b947d7177993/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/98826466fb4232634099645f447cb6c1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-12.0.1.aar/98826466fb4232634099645f447cb6c1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/0cf9eae7b86fb6dd636f48ba0b6aaf14/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fitness-12.0.1.aar/0cf9eae7b86fb6dd636f48ba0b6aaf14/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/5b6383210da4af9e255cd9a39f295c5f/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/5b6383210da4af9e255cd9a39f295c5f/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/046201c775b0a9fc99a5f372a8e8600c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-12.0.1.aar/046201c775b0a9fc99a5f372a8e8600c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/ce5a6d77c64da3868d4b12bf5b260325/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-identity-12.0.1.aar/ce5a6d77c64da3868d4b12bf5b260325/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/0c97f7e3c01785b17656af12908d94d1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/0c97f7e3c01785b17656af12908d94d1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/308264ebb63a3c03a6c12a8f2dd487c0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-location-12.0.1.aar/308264ebb63a3c03a6c12a8f2dd487c0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/0103a7f4443a2fd23034a9c8281066bc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-places-12.0.1.aar/0103a7f4443a2fd23034a9c8281066bc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/93933372a082bff8771dc68a4ff114aa/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-12.0.1.aar/93933372a082bff8771dc68a4ff114aa/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/9768329329c33f04a05febcdb7fdfff6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-panorama-12.0.1.aar/9768329329c33f04a05febcdb7fdfff6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/d929433fb67fbb9f92a83e6921e2ee98/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-plus-12.0.1.aar/d929433fb67fbb9f92a83e6921e2ee98/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/3f970147975fa12aa6a744f751b29a30/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-12.0.1.aar/3f970147975fa12aa6a744f751b29a30/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/f149945745cb0bea11f7244c409ab248/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/f149945745cb0bea11f7244c409ab248/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/aee4b32afb24d348a7315f7aa85996df/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/aee4b32afb24d348a7315f7aa85996df/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/c300d07474c49ab8a7328be4d0cad0b1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wearable-12.0.1.aar/c300d07474c49ab8a7328be4d0cad0b1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/69175abc04faad23cb646b48fc7819bb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/69175abc04faad23cb646b48fc7819bb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/402f934e99994149df9c7d9ee3a02201/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-12.0.1.aar/402f934e99994149df9c7d9ee3a02201/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9731008026d91030e59806e7b2629f3c/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9731008026d91030e59806e7b2629f3c/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/6011310685c09af1ec98f1578d469e60/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gass-12.0.1.aar/6011310685c09af1ec98f1578d469e60/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/718b0dbfa70c2051648bbe1f015bca2d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/718b0dbfa70c2051648bbe1f015bca2d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/7331b88a8f4d10dfd5e0f776677dd80b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/7331b88a8f4d10dfd5e0f776677dd80b/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9c2af42facfee32b0c41c0c015d1c19/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9c2af42facfee32b0c41c0c015d1c19/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/09e1ec239eff58266dc51fd96232dc92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/09e1ec239eff58266dc51fd96232dc92/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/6b33749f95fdc42eec92f58532a1a6da/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/6b33749f95fdc42eec92f58532a1a6da/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f5e9d292cc8f9954effffbcf7083d3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f5e9d292cc8f9954effffbcf7083d3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/75deb6b3709ce6c46f5c0614573832b4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/75deb6b3709ce6c46f5c0614573832b4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/635238b0e89ec8df63c54dd1c1ec561d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-12.0.1.aar/635238b0e89ec8df63c54dd1c1ec561d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/94699ce39efc5f5c43678568a42dfa80/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-12.0.1.aar/94699ce39efc5f5c43678568a42dfa80/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/84053e1c13edbc3812cee8d5e0bd56ba/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-license-12.0.1.aar/84053e1c13edbc3812cee8d5e0bd56ba/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/0cfac8a2bcfbed939c55b62cb88ecd9c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-license-12.0.1.aar/0cfac8a2bcfbed939c55b62cb88ecd9c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/2722c8d3a851c4f89197e76ea9f97518/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-license-12.0.1.aar/2722c8d3a851c4f89197e76ea9f97518/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/462185da7819abec5e269b59ae4337fb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.1.aar/462185da7819abec5e269b59ae4337fb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/97db2dc609a1abddf396be0807b14c51/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.1.aar/97db2dc609a1abddf396be0807b14c51/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/804614720bd3acad7eae24692982ffe0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/804614720bd3acad7eae24692982ffe0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/8d2dacdd11594bd9703f721d5f10448e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-license-12.0.1.aar/8d2dacdd11594bd9703f721d5f10448e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/0034c25c192059a020c60f51dd1fe78d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-license-12.0.1.aar/0034c25c192059a020c60f51dd1fe78d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/2d6305f6508924395ac0ef5b77f96f31/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/2d6305f6508924395ac0ef5b77f96f31/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/2a10c5ddb5f86e4c8da806db96b12276/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-config-license-12.0.1.aar/2a10c5ddb5f86e4c8da806db96b12276/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/eb6f716a1e70d0f280f58e5faf549d13/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-awareness-license-12.0.1.aar/eb6f716a1e70d0f280f58e5faf549d13/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/50ce48303cb1a5e8be9de4a1e9c0e05d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-crash-license-12.0.1.aar/50ce48303cb1a5e8be9de4a1e9c0e05d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/f450d74f6f6795574a15280162efdf45/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-drive-license-12.0.1.aar/f450d74f6f6795574a15280162efdf45/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/ec3441fc7b9000c843166e61fb21ae71/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fido-license-12.0.1.aar/ec3441fc7b9000c843166e61fb21ae71/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/45da3f19045554a64825d1951267b281/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.1.aar/45da3f19045554a64825d1951267b281/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/618b4affc52b40af690d2ab7e6dd3669/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.1.aar/618b4affc52b40af690d2ab7e6dd3669/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/c7cc4ce77fb64b0c90bdddf394e767c5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.1.aar/c7cc4ce77fb64b0c90bdddf394e767c5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/b1c1389469fc03b601d9a3f82967a4c3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-license-12.0.1.aar/b1c1389469fc03b601d9a3f82967a4c3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/fcf1bc14826b3056adf8920684e24aa2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.1.aar/fcf1bc14826b3056adf8920684e24aa2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/f31ba801145d6cc2829dc8eff581b527/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-12.0.1.aar/f31ba801145d6cc2829dc8eff581b527/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/7c05be217089217a0fcdb2b44caa28e9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-license-12.0.1.aar/7c05be217089217a0fcdb2b44caa28e9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/4b10b639b0c1e3cfb161ce7b99d594e5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-12.0.1.aar/4b10b639b0c1e3cfb161ce7b99d594e5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/a4afaf7938bbd6565a010aa8301f2fa0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.1.aar/a4afaf7938bbd6565a010aa8301f2fa0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/f7505bcf66ab25379798918c5efbd92c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-fitness-license-12.0.1.aar/f7505bcf66ab25379798918c5efbd92c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/be939aa3cfa45fe9a1e76ca95f7a5e39/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-games-license-12.0.1.aar/be939aa3cfa45fe9a1e76ca95f7a5e39/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/e7bd5b7b263591cfb694292694776dc8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-12.0.1.aar/e7bd5b7b263591cfb694292694776dc8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/8c4ff54c36c8c628643d5e38f5aa85b1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-license-12.0.1.aar/8c4ff54c36c8c628643d5e38f5aa85b1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/34f2fe7b647b9af833bb8e09f25d45ca/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-license-12.0.1.aar/34f2fe7b647b9af833bb8e09f25d45ca/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/8d16ae30623604f6fab754ed5aca0ca4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-identity-license-12.0.1.aar/8d16ae30623604f6fab754ed5aca0ca4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/bdd3a27896e840080e7d8b29c7818f74/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-license-12.0.1.aar/bdd3a27896e840080e7d8b29c7818f74/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/73d9da8ffb11f4b625cc979f7ec05600/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-license-12.0.1.aar/73d9da8ffb11f4b625cc979f7ec05600/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/ebb784b4d105f9e27384f9340a6dd464/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-location-license-12.0.1.aar/ebb784b4d105f9e27384f9340a6dd464/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/5332b8d5ddb9597f5dce7031fc8c098d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-12.0.1.aar/5332b8d5ddb9597f5dce7031fc8c098d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/c0ba23f84bc4fdbaa2d6c923154a7c3e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.1.aar/c0ba23f84bc4fdbaa2d6c923154a7c3e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/880c6214f232f3e358e203b12d20dd65/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.1.aar/880c6214f232f3e358e203b12d20dd65/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/31f0e971a904e6e6b324bfe92e520988/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-nearby-license-12.0.1.aar/31f0e971a904e6e6b324bfe92e520988/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/e068e5d47ef08ad26eef708f3e204933/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-panorama-license-12.0.1.aar/e068e5d47ef08ad26eef708f3e204933/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/0a57b682290fd5a84e506241871d149f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-places-license-12.0.1.aar/0a57b682290fd5a84e506241871d149f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/faf69016cb6a5c66e2fecf9e5a6f5b0d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-plus-license-12.0.1.aar/faf69016cb6a5c66e2fecf9e5a6f5b0d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/605b1a65edfcbfa29838998af65d5e9f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-license-12.0.1.aar/605b1a65edfcbfa29838998af65d5e9f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/8984ca1523e61c5fbc52a031c6682790/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-license-12.0.1.aar/8984ca1523e61c5fbc52a031c6682790/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/a3146e25e4c4173aaa16ad07cb6025c0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-license-12.0.1.aar/a3146e25e4c4173aaa16ad07cb6025c0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/e492e75581dc1681dd3287387cf97f03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-license-12.0.1.aar/e492e75581dc1681dd3287387cf97f03/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/6246c87827bf4b517e2d407d122764d0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/6246c87827bf4b517e2d407d122764d0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/62ad313bcc6090ad16241a54d107653a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/62ad313bcc6090ad16241a54d107653a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/2a29f9d573e65d97a89a4b642cd74d37/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/2a29f9d573e65d97a89a4b642cd74d37/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/bf93665bbe5bad54959ea81a52f6d1e1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wallet-license-12.0.1.aar/bf93665bbe5bad54959ea81a52f6d1e1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/99a39e3f3f18fd269526ec33caed3967/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-wearable-license-12.0.1.aar/99a39e3f3f18fd269526ec33caed3967/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/80f5e9d292cc8f9954effffbcf7083d3/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:18:9-45
+	android:allowBackup
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:20:9-40
+activity#com.ypyproductions.restaurants.SplashActivity
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:21:9-31:20
+	android:screenOrientation
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:24:13-45
+	android:configChanges
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:23:13-145
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:22:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.ypyproductions.restaurants.MainActivity
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:32:9-37:20
+	android:screenOrientation
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:35:13-45
+	android:configChanges
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:34:13-145
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:33:13-71
+activity#com.ypyproductions.restaurants.SearchActivity
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:38:9-43:20
+	android:screenOrientation
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:41:13-45
+	android:configChanges
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:40:13-145
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:39:13-73
+activity#com.ypyproductions.restaurants.DetailItemActivity
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:44:9-49:20
+	android:screenOrientation
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:47:13-45
+	android:configChanges
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:46:13-145
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:45:13-77
+activity#com.ypyproductions.restaurants.ShowUrlActivity
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:51:10-56:20
+	android:screenOrientation
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:54:13-45
+	android:configChanges
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:53:13-145
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:52:13-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:58:9-60:125
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:60:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-12.0.1.aar/99fd7fa9f0281a98ca1b3dde9b5e8ccd/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:59:13-65
+meta-data#com.google.android.gms.version
+ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:62:9-64:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/7331b88a8f4d10dfd5e0f776677dd80b/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/7331b88a8f4d10dfd5e0f776677dd80b/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:64:13-66
+	android:name
+		ADDED from /home/fuha/Downloads/myrestaurant/MyRestaurant/app/src/main/AndroidManifest.xml:63:13-58
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-12.0.1.aar/c5ce6ca049ec3ec38786b8ee62e5c8c1/AndroidManifest.xml:11:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/27cfc852900564b53afecaa010e8dbde/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9c2af42facfee32b0c41c0c015d1c19/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9c2af42facfee32b0c41c0c015d1c19/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/09e1ec239eff58266dc51fd96232dc92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/09e1ec239eff58266dc51fd96232dc92/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/6b33749f95fdc42eec92f58532a1a6da/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/palette-v7-26.1.0.aar/6b33749f95fdc42eec92f58532a1a6da/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/27cfc852900564b53afecaa010e8dbde/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/fuha/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-26.1.0.aar/27cfc852900564b53afecaa010e8dbde/AndroidManifest.xml:24:13-51
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-12.0.1.aar/e044ef35dba447e69721fff97f2cc505/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-analytics-12.0.1.aar/00feb0f66ea38810ba4ee17dda1b3973/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-12.0.1.aar/70ffd4ac716ce86f06569d1279a40f99/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.1.aar/6d56992319bea551b9d1c90ebe73c765/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.1.aar/47027dcffa2ac1c24960790bdf4b70a1/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/5b6383210da4af9e255cd9a39f295c5f/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/0c97f7e3c01785b17656af12908d94d1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-iid-12.0.1.aar/0c97f7e3c01785b17656af12908d94d1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-gcm-12.0.1.aar/5b6383210da4af9e255cd9a39f295c5f/AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-maps-12.0.1.aar/6b35ed0af4eef2b010df9c7c162c26ec/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/69175abc04faad23cb646b48fc7819bb/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/69175abc04faad23cb646b48fc7819bb/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/69175abc04faad23cb646b48fc7819bb/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/69175abc04faad23cb646b48fc7819bb/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-messaging-12.0.1.aar/21706e6efc357c87631829c8ab6d5cfb/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.id.dahari.app
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-12.0.1.aar/466a70cbc854fda60db907fbd9f8320e/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.1.aar/5876c80b43074c46142e2cf1aee5115f/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.1.aar/b7cc25290c1de279333dfb66902a6106/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:29:9-63
+permission#id.dahari.app.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:32:22-76
+uses-permission#id.dahari.app.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:id.dahari.app
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:42:27-58
+category#id.dahari.app
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.1.aar/12d54517889e893083249df34fb6bded/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9731008026d91030e59806e7b2629f3c/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9731008026d91030e59806e7b2629f3c/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9731008026d91030e59806e7b2629f3c/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9731008026d91030e59806e7b2629f3c/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/fuha/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.1.aar/9731008026d91030e59806e7b2629f3c/AndroidManifest.xml:9:13-77

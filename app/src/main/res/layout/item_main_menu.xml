@@ -1,0 +1,184 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/layout_main_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:weightSum="3" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:background="@color/color_bg_primary"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginTop="@dimen/menu_margin_top"
+                android:background="@color/alpha_white_menu" >
+
+                <View
+                    android:id="@+id/devider"
+                    android:layout_width="@dimen/small_margin"
+                    android:layout_height="match_parent"
+                    android:background="@color/color_accent" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/margin"
+                    android:layout_toRightOf="@+id/devider"
+                    android:gravity="left|center_vertical"
+                    android:text="@string/title_main_menu"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_header_menu" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/btn_all_restaurant"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector" >
+
+                <ImageView
+                    android:id="@+id/img_all_res"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_all_res" />
+
+                <TextView
+                    android:id="@+id/tv_all_res"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/margin"
+                    android:layout_toRightOf="@+id/img_all_res"
+                    android:singleLine="true"
+                    android:text="@string/title_all_restaurant"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout_call"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector" >
+
+                <ImageView
+                    android:id="@+id/img_call"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_call_phone" />
+
+                <TextView
+                    android:id="@+id/tv_call_us_now"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/margin"
+                    android:layout_toRightOf="@+id/img_call"
+                    android:singleLine="true"
+                    android:text="@string/title_call_now"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/btn_offers"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector" >
+
+                <ImageView
+                    android:id="@+id/img_offer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_whatshot_white_24dp" />
+
+                <TextView
+                    android:id="@+id/tv_offers"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/margin"
+                    android:layout_toRightOf="@+id/img_offer"
+                    android:singleLine="true"
+                    android:text="@string/title_offer"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout_info"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/layout_height_title_menu"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:background="@drawable/bg_selector" >
+
+                <ImageView
+                    android:id="@+id/img_information"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/ic_information" />
+
+                <TextView
+                    android:id="@+id/tv_information"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/margin"
+                    android:layout_toRightOf="@+id/img_information"
+                    android:singleLine="true"
+                    android:text="@string/title_about_us"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_caption_cateory"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:gravity="left"
+                android:text="@string/title_select_cat"
+                android:textColor="@color/color_accent"
+                android:textSize="@dimen/text_size_content" />
+
+            <ListView
+                android:id="@+id/list_category"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/margin"
+                android:layout_marginLeft="@dimen/menu_margin_right"
+                android:layout_marginTop="@dimen/margin"
+                android:cacheColorHint="@android:color/transparent"
+                android:fadingEdgeLength="0dp"
+                android:divider="@color/color_bg_primary"
+                android:listSelector="@drawable/bg_selector"
+                android:dividerHeight="1sp"
+                android:overScrollMode="never"
+                android:scrollbars="vertical" >
+            </ListView>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@drawable/shadow" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/layout_root"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/item_row_height"
+        android:background="@color/white" >
+
+        <ImageView
+            android:id="@+id/img_dish"
+            android:layout_width="@dimen/item_img_height"
+            android:layout_height="@dimen/item_img_height"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/margin"
+            android:padding="2sp"
+            android:background="@drawable/circle_primary_color"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_launcher" />
+
+        <LinearLayout
+            android:id="@+id/layout_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5sp"
+            android:layout_marginRight="5sp"
+            android:layout_toLeftOf="@+id/tv_price"
+            android:layout_toRightOf="@+id/img_dish"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="sadsadasdasd"
+                android:textColor="@color/black_text"
+                android:textSize="@dimen/text_size_title" />
+
+            <TextView
+                android:id="@+id/tv_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="3"
+                android:text="adasdasd"
+                android:textColor="@color/black_secondary_text"
+                android:textSize="@dimen/text_size_content" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_width="70sp"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_toLeftOf="@+id/btn_add"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="6.5"
+            android:textColor="@color/black_text"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/btn_sub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin"
+            android:background="@drawable/bt_sub"
+            android:minHeight="1sp"
+            android:minWidth="1sp" />
+
+        <ImageView
+            android:id="@+id/btn_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin"
+            android:layout_toLeftOf="@+id/btn_sub"
+            android:background="@drawable/bt_add_wishlist"
+            android:minHeight="1sp"
+            android:minWidth="1sp" />
+    </RelativeLayout>
+
+</RelativeLayout>
